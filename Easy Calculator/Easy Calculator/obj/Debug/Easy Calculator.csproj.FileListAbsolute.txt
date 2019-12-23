@@ -1,0 +1,6 @@
+E:\Sources\Easy Calculator\Easy Calculator\obj\Debug\Easy Calculator.csprojAssemblyReference.cache
+E:\Sources\Easy Calculator\Easy Calculator\bin\Debug\Easy Calculator.exe.config
+E:\Sources\Easy Calculator\Easy Calculator\bin\Debug\Easy Calculator.exe
+E:\Sources\Easy Calculator\Easy Calculator\bin\Debug\Easy Calculator.pdb
+E:\Sources\Easy Calculator\Easy Calculator\obj\Debug\Easy Calculator.exe
+E:\Sources\Easy Calculator\Easy Calculator\obj\Debug\Easy Calculator.pdb
